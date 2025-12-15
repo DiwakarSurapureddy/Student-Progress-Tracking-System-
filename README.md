@@ -42,14 +42,6 @@ Bash
 python student_progress.py
 Follow the on-screen instructions
 
-
-🎯 Learning Outcomes:
-
-Practical use of Python basics
-Logical thinking and flow control
-Building a mini real-world project
-
-
 📌 Future Improvements:
 
 Use functions for better structure
